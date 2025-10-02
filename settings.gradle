@@ -1,2 +1,5 @@
 include ':FtcRobotController'
 include ':TeamCode'
+include ':TEAM_5187'
+include ':TEAM_6206'
+include ':Programmer_TEST'
